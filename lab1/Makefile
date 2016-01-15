@@ -1,3 +1,3 @@
 all:
-	gcc -o a -Wall -g main.c lab1_IO.c -lpthread -lm
+	gcc -o main -Wall -g main.c lab1_IO.c -lpthread -lm
 
